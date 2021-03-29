@@ -1,0 +1,2 @@
+include ':1501_Fragment_User'
+rootProject.name = "CH15k-Fragment"
